@@ -1,0 +1,9 @@
+[package]
+name = "redis-nickel-server"
+version = "0.1.0"
+authors = ["Martin Muñoz <im.mmun@gmail.com>"]
+
+[dependencies]
+nickel = "*"
+redis = "*"
+time = "*"
